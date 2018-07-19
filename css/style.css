@@ -33,5 +33,7 @@ figcaption {
 /* Class selector (applied to as many elements as you like) */
 
 .milk-text { /* selector elements with class="milk-text" */
-  font: bold 2.Gen
-}
+  font: bold 2.Gen 'Elsie', cursive;
+  color: white;
+  text-shadow: 
+} 
